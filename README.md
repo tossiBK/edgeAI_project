@@ -14,6 +14,7 @@ Android: Android Studio, with Kotlin and with min target SDK 29
 Dataset used for the training: 
 
 UTKFaces: https://www.kaggle.com/datasets/jangedoo/utkface-new
+
 FER2013: https://www.kaggle.com/datasets/nicolejyt/facialexpressionrecognition
 
 It is not included in the project, as by the size of the data.
@@ -27,5 +28,6 @@ datasets/fer2013/
 
 ## Usage of the project
 
-Follow the steps in the provided Jupyter Notebook. 
+Follow the steps in the provided Jupyter Notebook in the folder: model_training.
+
 Android app can be buil in Android Studio, but also require TensorFlow light and OpenCV as additional external imports
